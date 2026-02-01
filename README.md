@@ -470,10 +470,10 @@ This project is licensed under the MIT License.
 
 ## 👤 Author
 
-**Your Name**
+**Debarshi Majumder**
 
-- Email: your.email@example.com
-- GitHub: [@yourusername](https://github.com/yourusername)
+- Email: debarshimajumder.dev@gmail.com
+- GitHub: [@Neel-stack-deb](https://github.com/Neel-stack-deb)
 
 ## 🙏 Acknowledgments
 
@@ -483,9 +483,7 @@ This project is licensed under the MIT License.
 
 ## 📞 Support
 
-For support, email your.email@example.com or create an issue in the repository.
+For support, email debarshimajumder.dev@gmail.com or create an issue in the repository.
 
 ---
 
-**Made with ❤️ using NestJS, PostgreSQL, and Prisma**#   C R M - A p p l i c a t i o n  
- 
